@@ -3,7 +3,7 @@
      Convolutional NN (CNN), Computer Vison (CV) and Reinforcement Learning (RL)
 - 🌱 I’m currently studing at @Politecnico di Torino, Msc in Automation and Intelligent Cyberphisical Systems with particular interest over AI
 
-I develop code mainly in **Python** (especially for Data Science projects) and **Rust** as a lower-level programming language
+I develop code mainly in **Python** (especially for Data Science projects) and **Rust/C** as a lower-level programming language
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
