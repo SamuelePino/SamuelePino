@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelePino&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcopra&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="ovi" width="410" /></p>
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelePino&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelePino&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="ovi" width="410" /></p>
